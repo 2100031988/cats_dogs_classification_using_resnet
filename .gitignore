@@ -1,0 +1,10 @@
+# Local dataset files
+kagglecatsanddogs_3367a/PetImages/
+
+# Generated model files
+*.h5
+*.keras
+
+# macOS and notebook-generated files
+.DS_Store
+.ipynb_checkpoints/
