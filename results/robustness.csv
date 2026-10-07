@@ -1,0 +1,25 @@
+distortion,level,model,accuracy
+Gaussian blur (sigma),0.0,CNN-A,0.7347756410256411
+Gaussian blur (sigma),0.0,ResNet50 (frozen),0.9947916666666666
+Gaussian blur (sigma),1.0,CNN-A,0.7299679487179487
+Gaussian blur (sigma),1.0,ResNet50 (frozen),0.9751602564102564
+Gaussian blur (sigma),2.0,CNN-A,0.6197916666666666
+Gaussian blur (sigma),2.0,ResNet50 (frozen),0.9014423076923077
+Gaussian blur (sigma),3.0,CNN-A,0.5725160256410257
+Gaussian blur (sigma),3.0,ResNet50 (frozen),0.7704326923076923
+Gaussian noise (std),0.0,CNN-A,0.7347756410256411
+Gaussian noise (std),0.0,ResNet50 (frozen),0.9947916666666666
+Gaussian noise (std),10.0,CNN-A,0.7175480769230769
+Gaussian noise (std),10.0,ResNet50 (frozen),0.9883814102564102
+Gaussian noise (std),25.0,CNN-A,0.6730769230769231
+Gaussian noise (std),25.0,ResNet50 (frozen),0.9667467948717948
+Gaussian noise (std),50.0,CNN-A,0.578125
+Gaussian noise (std),50.0,ResNet50 (frozen),0.8870192307692307
+Darkening (factor),1.0,CNN-A,0.7347756410256411
+Darkening (factor),1.0,ResNet50 (frozen),0.9947916666666666
+Darkening (factor),0.7,CNN-A,0.7091346153846154
+Darkening (factor),0.7,ResNet50 (frozen),0.9923878205128205
+Darkening (factor),0.5,CNN-A,0.6105769230769231
+Darkening (factor),0.5,ResNet50 (frozen),0.9903846153846154
+Darkening (factor),0.3,CNN-A,0.5260416666666666
+Darkening (factor),0.3,ResNet50 (frozen),0.9839743589743589
