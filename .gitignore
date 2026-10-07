@@ -1,5 +1,5 @@
-# Local dataset files
-kagglecatsanddogs_3367a/PetImages/
+# Local dataset images
+data/kaggle-cats-and-dogs/PetImages/
 
 # Generated model files
 *.h5
@@ -7,4 +7,5 @@ kagglecatsanddogs_3367a/PetImages/
 
 # macOS and notebook-generated files
 .DS_Store
+Thumbs.db
 .ipynb_checkpoints/
